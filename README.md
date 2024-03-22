@@ -16,7 +16,7 @@ The `pdfCropMargins` package is needed. You can install it via
 pip install pdfCropMargins
 ```
 
-## Modifying the codes 
+## Modifying the code
 
 You can easily see how to modify the code to use more LaTeX packages or define new commands.
 
